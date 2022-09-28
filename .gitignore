@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+.env
+vendor
+
+__debug_bin
+
